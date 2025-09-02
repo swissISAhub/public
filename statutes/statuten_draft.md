@@ -29,8 +29,6 @@ Alle Personenbezeichnungen in diesem Dokument beziehen sich auf beide Geschlecht
 
 Die Mitgliedschaft steht allen natürlichen Personen offen, die sich für die Weiterentwicklung der OT-Sicherheit und industriellen Automatisierung in der Schweiz interessieren, sowie die Vereinszwecke unterstützen und die Statuten anerkennen.
 
-Die Mitgliedschaft juristischer Personen ist ausgeschlossen.
-
 ### Art. 5 Aufnahme
 
 Die Aufnahme erfolgt auf schriftlichen Antrag.
