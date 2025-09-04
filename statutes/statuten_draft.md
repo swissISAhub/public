@@ -1,17 +1,16 @@
-# Statuten des Vereins Swiss ISA Hub
+# Statuten des Vereins ICS Security Switzerland
 
 <img src="logo.png" alt="Logo" width="200"/>
-
 
 ## 1 Name, Sitz, Zweck, Haftung
 
 ### Art. 1 Name
 
-Unter dem Namen **Swiss ISA Hub** besteht ein Verein im Sinne von Art. 60ff des Schweizerischen Zivilgesetzbuches (ZGB).
+Unter dem Namen **ICS Security Switzerland** besteht ein Verein im Sinne von Art. 60ff des Schweizerischen Zivilgesetzbuches (ZGB).
 
 ### Art. 2 Sitz
 
-Der Sitz des Vereins ist Zürich.
+Der Sitz des Vereins ist Bern.
 
 ### Art. 3 Zweck
 
